@@ -42,7 +42,7 @@ body {
 
 .form input[type="text"],
 .form input[type="password"],
-.form input[type="submit"] {
+.form button[type="submit"] {
     padding: 1rem;
     width: 100%;
     margin-bottom: 10px;
